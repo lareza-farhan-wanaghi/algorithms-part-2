@@ -2,6 +2,7 @@
 
 ![Completion status: completed](https://img.shields.io/badge/COMPLETION%20STATUS-COMPLETED-success?style=for-the-badge)
 
+## Description
 This repository contains my solutions for the [Algorithm Part 2](https://www.coursera.org/learn/algorithms-part2) course assignments.
 
 
