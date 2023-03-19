@@ -1,5 +1,5 @@
 # Description
-This repo contains my assignment projects for the "Algorithm Part 2" course.
+This repo contains my solutions for the [Algorithm Part 2](https://www.coursera.org/learn/algorithms-part2) course assignments.
 
 ## Inner-folders descriptions:
 - <strong>wordnet<_strong>: Solution for the week 1 section "Directed Graphs" assignment. Activities involved: applying a digraph data structure and using a BFS algorithm to simulate a WordNet, a semantic lexicon for the English language. [Learn more](https://coursera.cs.princeton.edu/algs4/assignments/wordnet/specification.php)
