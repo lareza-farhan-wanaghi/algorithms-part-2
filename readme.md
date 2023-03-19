@@ -1,4 +1,8 @@
 # Algorithm Part 2
+
+[![status: completed](https://img.shields.io/badge/status-completed-green)]
+
+## Description
 This repository contains my solutions for the [Algorithm Part 2](https://www.coursera.org/learn/algorithms-part2) course assignments.
 
 
