@@ -296,17 +296,6 @@ public class SeamCarver {
         }
     }
 
-    // public int rgb(int x, int y) {
-    // if (x < 0 || x >= width() || y < 0 || y >= height()) {
-    // throw new IllegalArgumentException();
-    // }
-    // if (isTransposed) {
-    // return picturePixels[y][x].rgb;
-    // } else {
-    // return picturePixels[x][y].rgb;
-    // }
-    // }
-
     // sequence of indices for horizontal seam
     public int[] findHorizontalSeam() {
         if (isTransposed) {
