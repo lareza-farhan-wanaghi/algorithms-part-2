@@ -35,6 +35,6 @@ Solution for the week 5 section  "Data Compression" assignment. Activities invol
 
 ### Score Report
 
-Below is the assignment score report for the solutions.
+Below is the assignment score report of the solutions.
 
 ![Score report](algorithm-2-score.png)
