@@ -33,7 +33,7 @@ Solution for the week 4 section "Substring Search" assignment. Activities involv
 Solution for the week 5 section  "Data Compression" assignment. Activities involved: making algorithms to implement some steps involved in the Burrows-Wheeler data compression algorithm. [Learn more](https://coursera.cs.princeton.edu/algs4/assignments/burrows/specification.php)
 
 
-### Score
+### Score Report
 
 Below is the assignment score report for the solutions.
 
