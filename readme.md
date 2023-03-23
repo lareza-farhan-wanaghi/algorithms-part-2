@@ -15,7 +15,7 @@ Solution for the week 1 section "Directed Graphs" assignment. Activities involve
 
 **2. seam** 
 
-Solution for the week 2 section "Shortest Paths" assignment. Activities involved: making an image resizing technique called seam-carving, which could be done by finding the shortest path of a topologically sorted digraph to remove pixels. [Learn more](https://coursera.cs.princeton.edu/algs4/assignments/seam/specification.php)
+Solution for the week 2 section "Shortest Paths" assignment. Activities involved: making an image resizing technique called seam-carving, which can be done by finding the shortest path of a topologically sorted digraph to remove pixels. [Learn more](https://coursera.cs.princeton.edu/algs4/assignments/seam/specification.php)
 
 
 **3. baseball** 
@@ -25,7 +25,7 @@ Solution for the week 3 section  "Maximum Flow and Minimum Cut" assignment. Acti
 
 **4. boggle** 
 
-Solution for the week 4 section "Substring Search" assignment. Activities involved: making a ternary search tries and DFS algorithm to traverse it to find all possible valid English words on a given random boggle game board. [Learn more](https://coursera.cs.princeton.edu/algs4/assignments/boggle/specification.php)
+Solution for the week 4 section "Substring Search" assignment. Activities involved: making a ternary search tries and DFS algorithm to find all possible valid English words on a given random boggle game board. [Learn more](https://coursera.cs.princeton.edu/algs4/assignments/boggle/specification.php)
 
 
 **5. burrows** 
