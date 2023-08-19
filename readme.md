@@ -1,4 +1,4 @@
-# Algorithm Part 2
+# Coursera Algorithms, Part 2
 
 ![Completion status: completed](https://img.shields.io/badge/COMPLETION%20STATUS-COMPLETED-success?style=for-the-badge)
 
